@@ -1,8 +1,10 @@
 ## Helloooo
 
-Here's what I've built so far :0
+Here's what I've done so far :0
 
-1. [better-repo-filter](https://github.com/Yogeb-tech/better-repo-filter) 
+#### Built
+
+1. [better-repo-filter](https://github.com/Yogeb-tech/better-repo-filter)
    - Description: A repository focused on improved repo filtering (TypeScript)
    - Primary language: TypeScript
 
@@ -10,14 +12,16 @@ Here's what I've built so far :0
    - Description: CLI tool to manage GitHub repository tags via the GitHub API
    - Primary language: TypeScript
 
-3. [nebula-api](https://github.com/Yogeb-tech/nebula-api)
-   - Description: Central API for Nebula Labs — exposes UTD data via endpoints
-   - Primary language: Go
-
-4. [api-tools](https://github.com/Yogeb-tech/api-tools)
-   - Description: CLI-based tool for scraping, parsing, and uploading data for Nebula Labs' API (forked)
-   - Primary language: Go
-
-5. [Godot-Moving-Platforms-2D](https://github.com/Yogeb-tech/Godot-Moving-Platforms-2D)
+3. [Godot-Moving-Platforms-2D](https://github.com/Yogeb-tech/Godot-Moving-Platforms-2D)
    - Description: A Godot 4.x plugin for creating moving platforms in 2D games
    - Primary language: GDScript (Godot)
+
+#### Contributed
+
+1. [nebula-api](https://github.com/Yogeb-tech/nebula-api)
+   - Description: Central API for Nebula Labs — exposes UTD data via endpoints (contributor)
+   - Primary language: Go
+
+2. [api-tools](https://github.com/Yogeb-tech/api-tools)
+   - Description: CLI-based tool for scraping, parsing, and uploading data for Nebula Labs' API (forked, contributor)
+   - Primary language: Go
