@@ -5,7 +5,7 @@ Here's what I've done so far :0
 #### Built
 
 1. [better-repo-filter](https://github.com/Yogeb-tech/better-repo-filter)
-   - Description: A repository focused on improved repo filtering (TypeScript)
+   - Description: A browser extension focused on improved repo filtering in the Github Dashboard via Github GraphQL API, WXT, and Vue
    - Primary language: TypeScript
 
 2. [github-repository-tags](https://github.com/Yogeb-tech/github-repository-tags)
