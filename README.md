@@ -6,7 +6,8 @@ Here's what I've done so far :0
 - [github-lists-filter](https://github.com/Yogeb-tech/better-repo-filter) - Browser extension for improved repo filtering on GitHub Dashboard using GraphQL API, WXT, and Vue. (TypeScript)
 - [github-repository-tags](https://github.com/Yogeb-tech/github-repository-tags) - CLI tool to manage GitHub repository tags via the GitHub API. (TypeScript)
 - [Godot-Moving-Platforms-2D](https://github.com/Yogeb-tech/Godot-Moving-Platforms-2D) - Godot 4.x plugin for creating moving platforms in 2D games. (GDScript)
-- gdcompile - Web platform to compile custom Godot Engine templates on-demand with module flags, Mono toggle, and real-time build status. (TypeScript, Next.js, Supabase, GitHub Actions) - Work in progress
+- [gdcompile](https://github.com/Yogeb-tech/gdcompile) - Web platform to compile custom Godot Engine templates on-demand with module flags, Mono toggle, and real-time build status. (TypeScript, Next.js, Supabase, GitHub Actions)
+  - Work in progress
 
 **Contributed**
 - [nebula-api](https://github.com/Yogeb-tech/nebula-api) - Central API for Nebula Labs exposing UTD data via endpoints. (Go)
